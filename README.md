@@ -7,11 +7,12 @@ Hi, I am <strong>He Shuyue (何书悦)</strong>, a CS undergraduate student who 
 
 ## 🔗More
 
-- <strong>Homepage</strong>: [heweilai.com](http://heweilai.com)
+- <strong>Homepage</strong>: [heweilai.com](http://heweilai.com)->[heshuyue.com](http://heshuyue.com)(Changing in progress)
 - CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 - Douban(豆瓣): [www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
+- X(Twitter): [https://x.com/heshuyue_](https://x.com/heshuyue_)
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
-- The user names of Chinese Tiktok(抖音) and Xiaohongshu(小红书) are _"程序员何未来"_
+- The user names of Chinese Tiktok(抖音) and Xiaohongshu(小红书) are **"何书悦"**
 - Email: [linkshuyue@gmail.com](mailto:linkshuyue@gmail.com)
 
 If you have any questions about me, please feel free to contact me anytime 😃,Looking forward to mutual communication and growth ✌️
