@@ -1,6 +1,6 @@
 <h2 align="center">
 	Hi, I'm <a href="http://heweilai.com/" target="_blank">He Shuyue (何书悦)</a> 👋<br>
-	<a href="http://heweilai.com/" target="_blank"><img src="https://raw.githubusercontent.com/he-weilai/he-weilai/main/1733670125_212.jpg" height="150px" style="margin-bottom:-1px"></a>
+	<a href="http://heshuyue.com/" target="_blank"><img src="https://raw.githubusercontent.com/heshuyue/heshuyue/refs/heads/main/HeShuyue.jpg" height="80px" style="margin:10px"></a>
 </h2>
 
 Hi, I am <strong>He Shuyue (何书悦)</strong>, a CS undergraduate student who loves <strong>programming</strong> and <strong>writing</strong>.
