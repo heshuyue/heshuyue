@@ -19,7 +19,7 @@ If you have any questions about me, please feel free to contact me anytime 😃,
 
 ## 📈Data
 
-![heweilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-weilai&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
+![heshuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshuyue&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
 
