@@ -7,7 +7,7 @@ Hi, I am <strong>He Shuyue (何书悦)<a href="http://heweilai.com/static/The-pr
 
 ## 🔗More
 
-- <strong>Homepage</strong>: [heweilai.com](http://heweilai.com)->[heshuyue.com](http://heshuyue.com)(Changing in progress)
+- <strong>Homepage</strong>: [heshuyue.com](http://heshuyue.com)
 - CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 - Douban(豆瓣): [www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
 - X(Twitter): [https://x.com/heshuyue_](https://x.com/heshuyue_)
@@ -21,6 +21,4 @@ If you have any questions about me, please feel free to contact me anytime 😃,
 
 ![heshuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshuyue&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhe-weilai&count_bg=%23CB2AF1&title_bg=%23323FE1&icon=&icon_color=%23E7E7E7&title=GitHub+Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,react,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
