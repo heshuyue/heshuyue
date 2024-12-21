@@ -15,7 +15,8 @@ Hi, I am <strong>He Shuyue (何书悦)<a href="http://heweilai.com/static/The-pr
 - The user names of Chinese Tiktok(抖音) and Xiaohongshu(小红书) are **"何书悦"**
 - Email: [linkshuyue@gmail.com](mailto:linkshuyue@gmail.com)
 
-If you have any questions about me, please feel free to contact me anytime 😃,Looking forward to mutual communication and growth ✌️
+> [!NOTE]
+> If you have any questions about me, please feel free to contact me anytime 😃,Looking forward to mutual communication and growth ✌️
 
 ## 📈Data
 
