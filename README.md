@@ -1,9 +1,9 @@
 <h2 align="center">
-	Hi, I'm <a href="http://heweilai.com/" target="_blank">He Shuyue (何书悦)</a> 👋<br>
-	<a href="http://heweilai.com/" target="_blank"><img src="https://raw.githubusercontent.com/heshuyue/heshuyue/refs/heads/main/HeShuyue.jpg" height="80px" style="margin-top: 100px; margin-bottom: 10px;"></a>
+	Hi, I'm <a href="http://heshuyue.com/" target="_blank">He Shuyue (何书悦)</a> 👋<br>
+	<a href="http://heshuyue.com/" target="_blank"><img src="https://raw.githubusercontent.com/heshuyue/heshuyue/refs/heads/main/HeShuyue.jpg" height="80px" style="margin-top: 100px; margin-bottom: 10px;"></a>
 </h2>
 
-Hi, I am <strong>He Shuyue (何书悦)<a href="http://heweilai.com/static/The-pronunciation-of-HeShuyue.mp3" target="_blank">🔊</a></strong>, a CS undergraduate student who loves <strong>programming</strong> and <strong>writing</strong>.
+Hi, I am <strong>He Shuyue (何书悦)<a href="http://heshuyue.com/static/The-pronunciation-of-HeShuyue.mp3" target="_blank">🔊</a></strong>, a CS undergraduate student who loves <strong>programming</strong> and <strong>writing</strong>.
 
 ## 🔗More
 
