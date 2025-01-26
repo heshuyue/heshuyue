@@ -12,7 +12,7 @@ Hi, I am <strong>He Shuyue (何书悦)<a href="http://heshuyue.com/static/The-pr
 - X(Twitter): [https://x.com/heshuyue_](https://x.com/heshuyue_)
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 - CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
-- The user names of Chinese Tiktok(抖音) and Xiaohongshu(小红书) are **"何书悦"**
+- The user names of Chinese Tiktok(抖音) and rednote(小红书) are **"何书悦"**
 - Email: [linkshuyue@gmail.com](mailto:linkshuyue@gmail.com)
 
 > [!NOTE]
