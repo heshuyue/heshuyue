@@ -13,7 +13,6 @@ Hi, I'm <strong>HE Shuyue</strong>(/hɜː/ /ʃuː/ /jweɪ/<a href="http://heshuy
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 - CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 - The user names of Chinese Tiktok(抖音) and rednote(小红书) are **"何书悦"**
-- Email: [linkshuyue@gmail.com](mailto:linkshuyue@gmail.com)
 
 > [!NOTE]
 > If you have any questions about me, please feel free to contact me anytime 😃,Looking forward to mutual communication and growth ✌️
