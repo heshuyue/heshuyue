@@ -11,7 +11,7 @@ Hi, I'm <strong>HE Shuyue</strong>(/hɜː/ /ʃuː/ /jweɪ/<a href="http://heshuy
 - Douban(豆瓣): [www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
 - X(Twitter): [https://x.com/heshuyue_](https://x.com/heshuyue_)
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
-- CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
+- CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai) and [blog.csdn.net/huawuque404](https://blog.csdn.net/huawuque404)(Previous)
 - The user names of Chinese Tiktok(抖音) and rednote(小红书) are **"何书悦"**
 
 > [!NOTE]
