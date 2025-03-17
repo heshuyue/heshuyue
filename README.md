@@ -21,4 +21,4 @@ Hi, I'm <strong>HE Shuyue</strong>(/hɜː/ /ʃuː/ /jweɪ/<a href="http://heshuy
 
 ![heshuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshuyue&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,react,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,html,css,js,vue,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
